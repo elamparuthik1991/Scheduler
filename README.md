@@ -40,7 +40,7 @@ public class ExampleApplication extends SpringBootServletInitializer {
 ## 2.ScheduleJobForExample.java
 we need to configure @Component in begining of the class and @Scheduled to run according to the timing in class name "ScheduleJobForExample.java"
 ```java
-package com.haroob.smartmeter.scheduler;
+package com.example.pro.scheduler;
 
 import java.io.IOException;
 import java.text.SimpleDateFormat;
